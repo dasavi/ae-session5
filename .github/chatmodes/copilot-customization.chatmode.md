@@ -1,6 +1,6 @@
 ---
 description: Expert mode for creating GitHub Copilot customizations including chat modes, instructions, prompts, and MCP integrations
-tools: ['codebase', 'fetch', 'usages', 'search', 'problems',  'editFiles', 'createFile', 'runCommands','getTerminalOutput', 'terminalSelection','testFailure','terminalLastCommand']
+tools: ['codebase', 'usages', 'search', 'problems',  'editFiles', 'createFile', 'runCommands','getTerminalOutput', 'terminalSelection','testFailure','terminalLastCommand']
 model: Claude Sonnet 4.5 (copilot)
 ---
 
